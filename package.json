@@ -1,0 +1,14 @@
+{
+  "name": "storebloc-cypress-customer-web",
+  "version": "1.0.0",
+  "description": "SBK Cypress Automation - Customer Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayan F",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
